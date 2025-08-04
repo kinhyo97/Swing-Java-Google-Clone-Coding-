@@ -8,8 +8,6 @@
 
 Java Swing을 활용한 Google 메인 페이지 클론 프로젝트입니다.
 
-![screenshot](https://github.com/kinhyo97/Swing-Java-Google-Clone-Coding-/assets/your_image.png)
-
 ---
 
 
