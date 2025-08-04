@@ -1,3 +1,9 @@
+<img width="1262" height="707" alt="image" src="https://github.com/user-attachments/assets/0b9499ad-2c48-4184-88e4-47bf11a2bf6b" />
+
+
+
+
+
 # 🌐 Swing Java Google Clone
 
 Java Swing을 활용한 Google 메인 페이지 클론 프로젝트입니다.
@@ -5,6 +11,8 @@ Java Swing을 활용한 Google 메인 페이지 클론 프로젝트입니다.
 ![screenshot](https://github.com/kinhyo97/Swing-Java-Google-Clone-Coding-/assets/your_image.png)
 
 ---
+
+
 
 ## 📌 주요 기능
 
